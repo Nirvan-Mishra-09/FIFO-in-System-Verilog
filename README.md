@@ -1,5 +1,5 @@
 # FIFO-in-System-Verilog
-This repository contains a Verilog implementation of a FIFO (First-In-First-Out) buffer. The FIFO module supports parameterizable data width and depth, and provides signals for full and empty flags.
+This repository contains a System Verilog implementation of a FIFO (First-In-First-Out) buffer. The FIFO module supports parameterizable data width and depth, and provides signals for full and empty flags.
 
 ## Overview
 
