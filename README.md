@@ -32,3 +32,6 @@ The FIFO module is designed to store and retrieve data in a first-in, first-out 
 - `pop_data_o`: Data popped from the FIFO
 - `full_flag`: Indicates if the FIFO is full
 - `empty_flag`: Indicates if the FIFO is empty
+
+### Schematic
+![image](https://github.com/user-attachments/assets/8f321da3-d5a0-4fc7-8423-4a9ef3219c6e)
