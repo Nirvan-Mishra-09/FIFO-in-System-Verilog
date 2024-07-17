@@ -35,3 +35,6 @@ The FIFO module is designed to store and retrieve data in a first-in, first-out 
 
 ### Schematic
 ![image](https://github.com/user-attachments/assets/8f321da3-d5a0-4fc7-8423-4a9ef3219c6e)
+
+### Reference
+https://www.youtube.com/watch?v=9D7Es7PS78c&t=3103s
